@@ -1,0 +1,1 @@
+This repository contains data and code for resproducing results presented in the manuscript "INDIVIDUAL DIFFERENCES IN THE ASSOCIATIVE MEANING OF A WORD THROUGH THE LENS OF THE LANGUAGE MODEL AND SEMANTIC DIFFERENTIAL" (Litvinova et al.) submitted for  review in 'Research result. Theoretical and Applied Linguistics'
